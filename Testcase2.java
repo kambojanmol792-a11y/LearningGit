@@ -9,6 +9,10 @@ public class Testcase2 extends BaseClass {
 		int sub = a-b;
 		
 		System.out.println(sub);
+		System.out.println(a);
+		
+
+
 	}
 	
 	public static void main(String[]args) {
